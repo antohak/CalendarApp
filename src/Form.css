@@ -1,0 +1,22 @@
+.form-content {
+	padding: 0 0 10px 0;
+	display: flex;
+	flex-direction: column;
+	height: auto;
+}
+
+.form-button {
+	width: 100px;
+}
+
+.textfield {
+    width: 300px;
+}
+
+.textfield:last-of-type {
+	margin-bottom: 50px;
+}
+
+.error-message{
+	color: #F44E3B;
+}
